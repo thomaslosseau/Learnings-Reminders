@@ -119,7 +119,7 @@ Exemples de rôles : développeur senior, architecte logiciel, professeur patien
 ### 4.1. Longueur du prompt
 - Trop court → réponses vagues.
 - Trop long → l’IA peut perdre la hiérarchie des priorités.
-  > Plus de détails sont disponible dans l'[Annexe A](#-annexe-a--longueur-ideale-dun-prompt-et-comment-levaluer).
+  > Plus de détails sont disponibles dans l'[Annexe A](#-annexe-a--longueur-ideale-dun-prompt-et-comment-levaluer).
 
 **Zone idéale : 5 à 20 lignes.**
 
@@ -422,21 +422,3 @@ Exemples :
 - ✔ Trop long = l’IA perd la hiérarchie des priorités.  
 
 ---
-
-
-
-[!NOTE]
-> L'implémentation complète est disponible dans l'[Annexe A](#annexe-a--exemple-complet).
-
-# Annexes
-
-- [Annexe A — Architecture](#annexe-a--architecture)
-- [Annexe B — Prompts avancés](#annexe-b--prompts-avances)
-- [Annexe C — Exemples de projet](#annexe-c--exemples-de-projet)
-
-Voir l'**Annexe A** pour plus de détails.
-
-...
-
-## Annexe A — Exemple complet
-Contenu de l'annexe.
